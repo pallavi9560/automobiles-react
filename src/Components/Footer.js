@@ -7,11 +7,7 @@ function Footer() {
                         <span className="mb-3 mb-md-0 text-body-secondary">© 2024 Pizzeria, Inc</span>
                     </div>
 
-                    <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
-                        <li className="ms-3"><a className="text-body-secondary" href="#"><svg className="bi" width="24" height="24"></svg></a></li>
-                        <li className="ms-3"><a className="text-body-secondary" href="#"><svg className="bi" width="24" height="24"></svg></a></li>
-                        <li className="ms-3"><a className="text-body-secondary" href="#"><svg className="bi" width="24" height="24"></svg></a></li>
-                    </ul>
+
                 </footer>
             </div>
         </>

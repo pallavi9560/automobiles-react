@@ -44,7 +44,7 @@ function Menu() {
                 {items.map(item => (
                     <div className="col-md-4" key={item.id}>
                         <div className="card mb-4">
-                            <img src={item.image} height={300} className="card-img-top" />
+                            <img src={item.image} alt="item-img" height={300} className="card-img-top" />
                             <div className="card-body">
                                 <h5 className="card-title">{item.name}</h5>
                                 <p className="card-text">Description: {item.description}</p>
